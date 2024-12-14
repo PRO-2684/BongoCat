@@ -48,7 +48,7 @@
         }
       },
       "bg-leftdown": {
-        "description": "pg left down",
+        "description": "bg left down",
         "default": {
           "fontPath": "./theme/icomoon.woff",
           "fontCharacter": "\\61"
